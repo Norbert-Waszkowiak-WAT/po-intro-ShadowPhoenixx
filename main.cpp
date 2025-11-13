@@ -9,7 +9,7 @@ int x, y;
 };
 
 int main() {
-    Point p;
+    Point p1;
     p1.x = 1;
     p1.y = 2;
     p1.print();
